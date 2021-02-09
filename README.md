@@ -2,10 +2,7 @@
 ### hello world 👋🏾
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/729216428829442069?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/729216428829442069)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/729216428829442069)
-![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/729216428829442069)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/729216428829442069)](https://dev.discordprofiles.me/openspotify/729216428829442069)
 
 <!--
 **rammamia/rammamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
