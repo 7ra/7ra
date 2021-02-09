@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/729216428829442069?simple=true)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/159985870458322944?simple=true)
 
 <!--
 **rammamia/rammamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
