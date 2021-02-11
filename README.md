@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **a discord bot**
 
-- ⚡ Fun fact **i am epic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
