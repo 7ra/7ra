@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramjams&label=Profile%20views&color=0e75b6&style=flat" alt="ramjams" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramjams" alt="ramjams" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AirSupplier" alt="AirSupplier" /></a> </p>
 
 - 🔭 I’m currently working on **a discord bot**
 
@@ -16,6 +16,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramjams&show_icons=true&locale=en&layout=compact" alt="ramjams" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AirSupplier&show_icons=true&locale=en&layout=compact" alt="AirSupplier" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramjams&show_icons=true&locale=en" alt="ramjams" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?usernameAirSupplier&show_icons=true&locale=en" alt="AirSupplier" /></p>
