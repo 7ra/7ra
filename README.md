@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AirSupplier&show_icons=true&locale=en&layout=compact" alt="AirSupplier" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?usernameAirSupplier&show_icons=true&locale=en" alt="AirSupplier" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AirSupplier&show_icons=true&locale=en" alt="AirSupplier" /></p>
