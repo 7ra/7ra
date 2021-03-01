@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram</h1>
+<h1 align="center">Also known as AirSupplier, Fender, and SuperTrouper</h1>
 <h3 align="center">A passionate musician & developer from earth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7ra&label=Profile%20views&color=0e75b6&style=flat" alt="7ra" /> </p>
