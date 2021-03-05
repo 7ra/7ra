@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Stratobot](https://stratobot.github.io)
 
-- ⚡ Fun fact **ouu is untaken, go ahead get it**
+- ⚡ Fun fact **My Logo states "7vi, 7 as in the 7 days of creation, and vi = 6... On the 6th day, God created men, you and me!**
 
 
 <h3 align="left">Languages and Tools:</h3>
