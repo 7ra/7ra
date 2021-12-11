@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ram</h1>
-<h1 align="center">dude</h1>
-<h3 align="center">A passionate musician, developer and a dude who talks about religion most of the time from earth.</h3>
+<h3 align="center">I'm from earth. I'm a musician, developer, and a Christian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7ra&label=Profile%20views&color=0e75b6&style=flat" alt="7ra" /> </p>
 
